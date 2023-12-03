@@ -5,7 +5,7 @@ public class Main {
 
         System.out.printf("Hello and welcome!");
         System.out.println("i am moad");
-        int a=0;
+        int a=3;
 
 
     }
